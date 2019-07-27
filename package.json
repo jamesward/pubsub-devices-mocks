@@ -1,0 +1,24 @@
+{
+  "name": "pubsub-devices-mocks",
+  "version": "1.0.0",
+  "description": "Mock of publishers\\subscribers to the Google Cloud Pub\\Sub service of the Gauge Iot project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaugeiot/pubsub-devices-mocks.git"
+  },
+  "keywords": [
+    "pup\\sub",
+    "publishers",
+    "subscribers"
+  ],
+  "author": "joseigor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaugeiot/pubsub-devices-mocks/issues"
+  },
+  "homepage": "https://github.com/gaugeiot/pubsub-devices-mocks#readme"
+}
