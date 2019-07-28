@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/gaugeiot/pubsub-devices-mocks/issues"
   },
-  "homepage": "https://github.com/gaugeiot/pubsub-devices-mocks#readme"
+  "homepage": "https://github.com/gaugeiot/pubsub-devices-mocks#readme",
+  "dependencies": {
+    "@google-cloud/pubsub": "^0.30.1"
+  }
 }
