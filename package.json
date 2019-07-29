@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/gaugeiot/pubsub-devices-mocks#readme",
   "dependencies": {
-    "@google-cloud/pubsub": "^0.30.1"
+    "@google-cloud/pubsub": "^0.30.1",
+    "dotenv": "^8.0.0"
   }
 }
