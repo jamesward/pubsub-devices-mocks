@@ -61,4 +61,4 @@ typings/
 .next
 
 # exclude google cloud service accounts
-gclould/
+gcloud/
